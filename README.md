@@ -10,7 +10,7 @@ This is a Python FastAPI application to track vulnerabilities in Python dependen
 ## Installation:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/vulnerability-tracker.git
+    git clone https://github.com/PriyAmht/FastAPI.git
     ```
 2. Install the dependencies:
     ```bash
